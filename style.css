@@ -191,13 +191,13 @@ body {
     left: 10%;
     background-color: white;
     border: 2px black solid;
-    padding: 20px;
+    padding: 10px;
     animation-name: zoom;
     animation-duration: 2s;
     width: fit-content;
     opacity: 0;
     animation-fill-mode: forwards;
-    width: 35%;
+    width: 40%;
 }
 
 @keyframes zoom {
