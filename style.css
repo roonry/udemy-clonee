@@ -232,4 +232,7 @@ body {
     .navbar__s4{
         display: block;
     }
+    .popup-box{
+        display: none;
+    }
 }
